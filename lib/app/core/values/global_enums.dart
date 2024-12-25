@@ -1,0 +1,4 @@
+enum WithdrawalStatus {
+  success,
+  failure,
+}
